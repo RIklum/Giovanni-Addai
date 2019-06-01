@@ -1,0 +1,141 @@
+body{
+margin: 0;
+
+}
+.Top-Container{
+  background-color: #a8d8ea;
+  padding-bottom: 200px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  position: relative;
+  background-image: url("images/bg-hero-desktop.svg");
+
+}
+.Interaction{
+  width: 80%;
+  margin: 100px auto 100px auto;
+
+}
+.tablet{
+  width: 50%;
+  float: right;
+  margin-left: 20px;
+
+
+}
+
+.tryme{
+  text-decoration: none;
+  border-radius:20px;
+  border: solid white;
+  padding: 10px 100px 10px 100px;
+  background-color: white;
+  position: absolute;
+  right: 10px;
+  top: 20px;
+  color: #364f6b;
+}
+.logo{
+  width:20%;
+}
+h1
+{
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+a{
+font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+
+}
+.start{
+  text-decoration: none;
+  border-radius:20px;
+  border: solid #d527b;
+  padding: 10px 100px 10px 100px;
+  background-color: #d527b7;
+  position: absolute;
+  left: 10px;
+  bottom: 100px;
+  color: white;
+
+}
+
+.Middle-Container{
+  padding-top: 100px;
+  width: 70%;
+  position: relative;
+  margin: auto;
+
+}
+.growing{
+  width:50%;
+  float: right;
+  margin-left: 50px;
+}
+.conversation{
+ margin-top: 300px;
+}
+.flowingconvo{
+  width:50%;
+  float: left;
+  margin-right: 50px;
+}
+.users{
+  width:;
+  margin-top: 300px;
+}
+.yourusers{
+  width:50%;
+  float: right;
+  margin-left: 50px;
+}
+.Bottom-Container{
+  margin: 300px auto auto auto;
+width: 50%;
+text-align: center;
+border-radius: 20px;
+
+padding-bottom: 50px;
+}
+.hi{
+  text-decoration: none;
+  border-radius:20px;
+  border: solid #d527b;
+  padding: 10px 100px 10px 100px;
+  background-color: #d527b7;
+  color: white;
+
+}
+.ready{
+  margin-bottom: 40px;
+
+}
+ul{
+  text-align: center;
+  margin: 0;
+
+}
+
+li{
+  display: inline-block;
+  text-align: center;
+  padding: 0 50px 0 50px
+}
+.foot{
+  background-color: #7ad9f5;
+  padding: 100px 6px 100px 6px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.copyright{
+  text-align: center;
+  padding-top: 50px;
+  font-size: 14px
+}
