@@ -1,0 +1,107 @@
+#Title{
+  background-color: #33313b;
+  padding: 5% 10%
+}
+nav{
+  background-color: #33313b;
+}
+body{
+  text-align: center;
+  font-family: 'Domine', serif;
+  background-color: #fcf9ec;
+}
+
+.medici{
+  border-radius: 50px;
+  margin-top: 80px;
+  width: 100%;
+
+  position: relative;
+}
+h1{
+  color: #fff;
+  margin-top: 100px;
+  padding-bottom: 50px;
+  font-family:'Domine', serif;
+  font-size: 40px;
+
+}
+.giovanni-brand{
+  font-size: 30px;
+  color: #fff;
+}
+.nav-item{
+  padding-left: 50px;
+  font-size: 20px;
+
+
+}
+#Education{
+  padding: 5% 10%
+}
+
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+font-size:30px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size:30px;
+  color: black;
+}
+.business-icon{
+  margin-bottom: 10px;
+}
+.finance-icon{
+  margin-bottom:10px;
+
+}
+.history-icon{
+  margin-bottom:10px;
+}
+.acca{
+  width:20%;
+  padding-left: 50px;
+
+}
+.cima{
+  width: 20%;
+
+  padding-left: 50px;
+
+}
+.icaew{
+  width:20%;
+  padding-left: 50px;
+
+}
+#prices{
+  padding: 5% 10%;
+  background-color: #33313b;
+}
+.accounting-logos{
+  padding-bottom: 50px;
+}
+p{
+  font-size: 20px;
+  color: #fff;
+  margin-bottom: 50px;
+}
+.copyright{
+  color: black;
+  font-size: 15px;
+  padding-top: 50px;
+}
+
+#footer{
+padding: 5% 10%;
+}
+.icon1{
+  display: inline;
+  padding: 0 40px
+
+}
